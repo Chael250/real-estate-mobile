@@ -1,0 +1,2 @@
+setup assets
+setup fonts in app.json
